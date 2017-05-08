@@ -1,3 +1,14 @@
+
+# pants instructions
+
+```
+./pants binary src/go/src/cfgt:cfgt
+./dist/go/bin/cfgt --help
+```
+
+NOTE: There will be a bunch of magical bootstrapping.
+
+
 # `cfgt` - Configuration File Translator
 
 ## Installation
